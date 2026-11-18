@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+data/meridian/audit.jsonl
+logs/
+data/roles.json
+data/meeting/
+data/meridian/tts/
+data/meridian/deal_room/
+data/meridian/audit-*.jsonl
+data/meridian/meetings/
+data/meridian/tls/
+meridian_finance_ai_demo_bundle/demo_keys/*_private.pem
